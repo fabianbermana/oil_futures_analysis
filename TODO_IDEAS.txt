@@ -1,0 +1,4 @@
+
+Seasonal-Trend Decomposition using LOESS:
+https://www.statsmodels.org/dev/examples/notebooks/generated/stl_decomposition.html
+
