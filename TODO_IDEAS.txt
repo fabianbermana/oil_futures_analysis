@@ -2,3 +2,7 @@
 Seasonal-Trend Decomposition using LOESS:
 https://www.statsmodels.org/dev/examples/notebooks/generated/stl_decomposition.html
 
+Autoregressive–moving-average model with exogenous inputs (ARMAX)
+https://en.wikipedia.org/wiki/Autoregressive_moving-average_model
+- add exogenous variables such as USD index / EURUSD rate, interest rates
+
