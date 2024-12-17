@@ -16,9 +16,9 @@ Currently, the repository contains the following items:
 
     - data_cleaning.ipynb: Notebook used to combine the three oil futures together into a single .csv file.
     - exploratory_analysis.ipynb: Notebook with simple plots and visualizations of our data.
-    - time_series_analysis_1.ipynb: Notebook with ARMA models and basic statistical tests.
+    - time_series_analysis_basic.ipynb: Notebook with ARMA models and basic statistical tests.
 
 We plan to add:
 
-- time_series_analysis_2.ipynb: Notebook containing more advanced time series models, such as GARCH for stochastic volatility, VAR, and VECM.
+- time_series_analysis_intermediate.ipynb: Notebook containing more advanced time series models, such as GARCH for stochastic volatility, VAR, and VECM.
 - machine_learning_models.ipynb: Notebook containing machine learning predictors of the oil returns.
